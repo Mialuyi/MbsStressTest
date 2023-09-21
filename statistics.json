@@ -1,0 +1,34 @@
+{
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 5000,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 5105.547800000003,
+    "medianResTime" : 4270.0,
+    "minResTime" : 111.0,
+    "maxResTime" : 13052.0,
+    "pct1ResTime" : 9759.900000000001,
+    "pct2ResTime" : 10810.95,
+    "pct3ResTime" : 12854.0,
+    "throughput" : 311.6624072804338,
+    "receivedKBytesPerSec" : 289.13992862930877,
+    "sentKBytesPerSec" : 34.69679143551705
+  },
+  "API  Request From Juakali" : {
+    "transaction" : "API  Request From Juakali",
+    "sampleCount" : 5000,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 5105.547800000003,
+    "medianResTime" : 4270.0,
+    "minResTime" : 111.0,
+    "maxResTime" : 13052.0,
+    "pct1ResTime" : 9759.900000000001,
+    "pct2ResTime" : 10810.95,
+    "pct3ResTime" : 12854.0,
+    "throughput" : 311.6624072804338,
+    "receivedKBytesPerSec" : 289.13992862930877,
+    "sentKBytesPerSec" : 34.69679143551705
+  }
+}
